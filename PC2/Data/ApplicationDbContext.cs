@@ -11,5 +11,6 @@ public class ApplicationDbContext : IdentityDbContext
         
     }
     public DbSet<PC2.Models.Contacto> DataContacto {get; set; }
+    public DbSet< PC2.Models.Producto> DataProducto {get; set; }
 }
 

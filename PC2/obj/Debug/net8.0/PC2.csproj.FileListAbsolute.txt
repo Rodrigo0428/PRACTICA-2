@@ -138,3 +138,4 @@ C:\Users\RODRIGO\Desktop\PROGRA_I\PRACTICA-2\PC2\obj\Debug\net8.0\refint\PC2.dll
 C:\Users\RODRIGO\Desktop\PROGRA_I\PRACTICA-2\PC2\obj\Debug\net8.0\PC2.pdb
 C:\Users\RODRIGO\Desktop\PROGRA_I\PRACTICA-2\PC2\obj\Debug\net8.0\PC2.genruntimeconfig.cache
 C:\Users\RODRIGO\Desktop\PROGRA_I\PRACTICA-2\PC2\obj\Debug\net8.0\ref\PC2.dll
+C:\Users\RODRIGO\Desktop\PROGRA_I\PRACTICA-2\PC2\obj\Debug\net8.0\PC2.sourcelink.json
